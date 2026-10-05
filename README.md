@@ -19,8 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/aman7217/LeetCode-submit/tree/master/0027-remove-element) |
+| [0704-binary-search](https://github.com/aman7217/LeetCode-submit/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/aman7217/LeetCode-submit/tree/master/0027-remove-element) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/aman7217/LeetCode-submit/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
