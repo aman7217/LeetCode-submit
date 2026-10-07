@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/aman7217/LeetCode-submit/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/aman7217/LeetCode-submit/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aman7217/LeetCode-submit/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/aman7217/LeetCode-submit/tree/master/0013-roman-to-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -35,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/aman7217/LeetCode-submit/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/aman7217/LeetCode-submit/tree/master/0182-duplicate-emails) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/aman7217/LeetCode-submit/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/aman7217/LeetCode-submit/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
