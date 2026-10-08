@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/aman7217/LeetCode-submit/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aman7217/LeetCode-submit/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/aman7217/LeetCode-submit/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/aman7217/LeetCode-submit/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/aman7217/LeetCode-submit/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/aman7217/LeetCode-submit/tree/master/0067-add-binary) |
 ## Sorting
 |  |
 | ------- |
@@ -60,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aman7217/LeetCode-submit/tree/master/0004-median-of-two-sorted-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/aman7217/LeetCode-submit/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/aman7217/LeetCode-submit/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
