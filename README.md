@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/aman7217/LeetCode-submit/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/aman7217/LeetCode-submit/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/aman7217/LeetCode-submit/tree/master/0115-distinct-subsequences) |
 | [1021-remove-outermost-parentheses](https://github.com/aman7217/LeetCode-submit/tree/master/1021-remove-outermost-parentheses) |
 ## Sorting
 |  |
@@ -125,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/aman7217/LeetCode-submit/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aman7217/LeetCode-submit/tree/master/0104-maximum-depth-of-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/aman7217/LeetCode-submit/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
